@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-#define PI 3.1416   
+#define PI 3.1416
 int main(){
     float r;
     printf("Nhap ban kinh duong tron: ");
@@ -10,6 +10,5 @@ int main(){
     cv=2*PI*r;
     printf("Chu vi duong tron la: %f\n",cv);
     printf("Dien tich hinh tron la: %f", s);
-    printf("Dong nay cho them, ??????");
     return 0;
 }
