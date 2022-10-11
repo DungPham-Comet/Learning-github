@@ -10,5 +10,6 @@ int main(){
     cv=2*PI*r;
     printf("Chu vi duong tron la: %f\n",cv);
     printf("Dien tich hinh tron la: %f", s);
+    printf("Dong nay cho them");
     return 0;
 }
