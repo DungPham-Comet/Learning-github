@@ -10,6 +10,10 @@ int main(){
     cv=2*PI*r;
     printf("Chu vi duong tron la: %f\n",cv);
     printf("Dien tich hinh tron la: %f", s);
+<<<<<<< HEAD
     printf("Dong nay cho them, ??????");
+=======
+    printf("Dong nay cho them, DO M NON");
+>>>>>>> 9a5776d03fd033959bc84b31efd514ccd1d7cad7
     return 0;
 }
